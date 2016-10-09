@@ -2,7 +2,7 @@
 ---
 ## second
 ### third
-#### forth
+#### fourth
 ##### fifth
 ###### sixth
 this is my first repository
@@ -13,7 +13,7 @@ var a = 666;
 1. first
 2. second
 3. third
-4. forth
+4. fourth
 
 ---
 - first
